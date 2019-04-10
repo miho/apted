@@ -20,6 +20,6 @@ ext.publishing.licenseUrl            = 'https://github.com/miho/apted/blob/maste
 ext.publishing.labels                = ['tree edit distance', 'ted']
 ext.publishing.websiteUrl            = 'https://github.com/miho/apted'
 ext.publishing.issueTrackerUrl       = 'https://github.com/miho/apted/issues'
-ext.publishing.vcsUrl                = 'git@github.com:miho/apted.git'
+ext.publishing.vcsUrl                = 'https://github.com/miho/apted'
 
 ext.publishing.pomName               =  ext.publishing.artifactId
