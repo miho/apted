@@ -21,14 +21,14 @@
  * SOFTWARE.
  */
 
-package at.unisalzburg.dbresearch.apted.distance;
+package eu.mihosoft.ext.apted.distance;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
-import at.unisalzburg.dbresearch.apted.node.Node;
-import at.unisalzburg.dbresearch.apted.node.NodeIndexer;
-import at.unisalzburg.dbresearch.apted.costmodel.CostModel;
+import eu.mihosoft.ext.apted.node.Node;
+import eu.mihosoft.ext.apted.node.NodeIndexer;
+import eu.mihosoft.ext.apted.costmodel.CostModel;
 
 /**
  * Implements an exponential algorithm for the tree edit distance. It computes

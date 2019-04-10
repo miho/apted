@@ -21,13 +21,13 @@
  * SOFTWARE.
  */
 
-package at.unisalzburg.dbresearch.apted.parser;
+package eu.mihosoft.ext.apted.parser;
 
 import java.util.List;
 
-import at.unisalzburg.dbresearch.apted.util.FormatUtilities;
-import at.unisalzburg.dbresearch.apted.node.Node;
-import at.unisalzburg.dbresearch.apted.node.StringNodeData;
+import eu.mihosoft.ext.apted.util.FormatUtilities;
+import eu.mihosoft.ext.apted.node.Node;
+import eu.mihosoft.ext.apted.node.StringNodeData;
 
 // [TODO] Make this parser independent from FormatUtilities - move here relevant elements.
 

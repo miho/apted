@@ -21,20 +21,20 @@
  * SOFTWARE.
  */
 
-package at.unisalzburg.dbresearch.apted.util;
+package eu.mihosoft.ext.apted.util;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.Date;
 import java.util.List;
 
-import at.unisalzburg.dbresearch.apted.distance.APTED;
-import at.unisalzburg.dbresearch.apted.node.Node;
-import at.unisalzburg.dbresearch.apted.node.StringNodeData;
-import at.unisalzburg.dbresearch.apted.costmodel.CostModel;
-import at.unisalzburg.dbresearch.apted.costmodel.StringUnitCostModel;
-import at.unisalzburg.dbresearch.apted.parser.InputParser;
-import at.unisalzburg.dbresearch.apted.parser.BracketStringInputParser;
+import eu.mihosoft.ext.apted.distance.APTED;
+import eu.mihosoft.ext.apted.node.Node;
+import eu.mihosoft.ext.apted.node.StringNodeData;
+import eu.mihosoft.ext.apted.costmodel.CostModel;
+import eu.mihosoft.ext.apted.costmodel.StringUnitCostModel;
+import eu.mihosoft.ext.apted.parser.InputParser;
+import eu.mihosoft.ext.apted.parser.BracketStringInputParser;
 
 /**
  * This is the command line interface for executing APTED algorithm.

@@ -21,7 +21,7 @@
  * SOFTWARE.
  */
 
-package at.unisalzburg.dbresearch.apted.node;
+package eu.mihosoft.ext.apted.node;
 
 /**
  * Represents a node label that consists of a single string value. Such label

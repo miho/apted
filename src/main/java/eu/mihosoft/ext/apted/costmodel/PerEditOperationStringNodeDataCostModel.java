@@ -21,10 +21,10 @@
  * SOFTWARE.
  */
 
-package at.unisalzburg.dbresearch.apted.costmodel;
+package eu.mihosoft.ext.apted.costmodel;
 
-import at.unisalzburg.dbresearch.apted.node.Node;
-import at.unisalzburg.dbresearch.apted.node.StringNodeData;
+import eu.mihosoft.ext.apted.node.Node;
+import eu.mihosoft.ext.apted.node.StringNodeData;
 
 /**
  * This is a cost model defined on {@link StringNodeData} with a fixed cost

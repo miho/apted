@@ -21,7 +21,7 @@
  * SOFTWARE.
  */
 
-package at.unisalzburg.dbresearch.apted.util;
+package eu.mihosoft.ext.apted.util;
 
 import java.util.*;
 

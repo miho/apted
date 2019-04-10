@@ -33,12 +33,12 @@ import org.junit.runners.Parameterized;
 import org.junit.runners.Parameterized.Parameters;
 import com.google.gson.Gson;
 import static org.junit.Assert.assertEquals;
-import at.unisalzburg.dbresearch.apted.distance.APTED;
-import at.unisalzburg.dbresearch.apted.distance.AllPossibleMappingsTED;
-import at.unisalzburg.dbresearch.apted.parser.BracketStringInputParser;
-import at.unisalzburg.dbresearch.apted.node.Node;
-import at.unisalzburg.dbresearch.apted.node.StringNodeData;
-import at.unisalzburg.dbresearch.apted.costmodel.PerEditOperationStringNodeDataCostModel;
+import eu.mihosoft.ext.apted.distance.APTED;
+import eu.mihosoft.ext.apted.distance.AllPossibleMappingsTED;
+import eu.mihosoft.ext.apted.parser.BracketStringInputParser;
+import eu.mihosoft.ext.apted.node.Node;
+import eu.mihosoft.ext.apted.node.StringNodeData;
+import eu.mihosoft.ext.apted.costmodel.PerEditOperationStringNodeDataCostModel;
 
 /**
  * Correctness unit tests of distance computation for node labels with a single

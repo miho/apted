@@ -21,15 +21,15 @@
  * SOFTWARE.
  */
 
-package at.unisalzburg.dbresearch.apted.distance;
+package eu.mihosoft.ext.apted.distance;
 
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
-import at.unisalzburg.dbresearch.apted.node.Node;
-import at.unisalzburg.dbresearch.apted.node.NodeIndexer;
-import at.unisalzburg.dbresearch.apted.costmodel.CostModel;
+import eu.mihosoft.ext.apted.node.Node;
+import eu.mihosoft.ext.apted.node.NodeIndexer;
+import eu.mihosoft.ext.apted.costmodel.CostModel;
 
 /**
  * Implements APTED algorithm [1,2].

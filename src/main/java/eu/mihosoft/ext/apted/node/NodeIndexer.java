@@ -21,12 +21,12 @@
  * SOFTWARE.
  */
 
-package at.unisalzburg.dbresearch.apted.node;
+package eu.mihosoft.ext.apted.node;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
-import at.unisalzburg.dbresearch.apted.costmodel.CostModel;
+import eu.mihosoft.ext.apted.costmodel.CostModel;
 
 /**
  * Indexes nodes of the input tree to the algorithm that is already parsed to

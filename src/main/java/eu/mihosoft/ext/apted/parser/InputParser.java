@@ -21,9 +21,9 @@
  * SOFTWARE.
  */
 
-package at.unisalzburg.dbresearch.apted.parser;
+package eu.mihosoft.ext.apted.parser;
 
-import at.unisalzburg.dbresearch.apted.node.Node;
+import eu.mihosoft.ext.apted.node.Node;
 
 /**
  * This interface specifies methods (currently only one) that must be
