@@ -1,5 +1,9 @@
 # APTED algorithm for the Tree Edit Distance
 
+[ ![Download](https://api.bintray.com/packages/miho/Ext/apted/images/download.svg) ](https://bintray.com/miho/Ext/apted/_latestVersion)
+
+**Note:** this is a fork of the original project. We do not intend to fork the functionality. But we need this software in some of our peojects and decided to publish apted on bintray and maven central. We changed the package name (java package and maven group id/artifact id) to ensure there's no conflict with the authors package name. If the original authors decide to publish the software they can do so under their preferred package name and artifact id (e.g. at.unisalzburg.dbresearch.apted:apted)
+
 ## Information
 
 This is an implementation of the APTED algorithm, the state-of-the-art
